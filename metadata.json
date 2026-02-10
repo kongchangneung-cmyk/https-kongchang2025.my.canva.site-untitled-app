@@ -1,0 +1,5 @@
+{
+  "name": "Building Certification Platform",
+  "description": "A platform to manage building certifications, schedule appointments, and provide an overview dashboard for officials and applicants. It includes an admin panel, map view, and a complete audit log.",
+  "requestFramePermissions": []
+}
